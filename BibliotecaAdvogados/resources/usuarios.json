@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "nome": "Gilvan",
+    "email": "gilvanpedro2006@gmail.com",
+    "cpf": "06531492120",
+    "funcao": "GERENTE",
+    "quantidadeLivrosPegos": 10,
+    "pontos": 34,
+    "pegouLivro": false
+  }
+]

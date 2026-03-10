@@ -1,0 +1,506 @@
+[
+  {
+    "id": 1,
+    "titulo": "Novo Direito Civil",
+    "autor": "Novo Autor A",
+    "editora": "Nova Editora X",
+    "categoria": "LEGISLACAO",
+    "quantidade": 5,
+    "quantidadeVezesAlugado": 10
+  },
+  {
+    "id": 3,
+    "titulo": "Constituição Federal",
+    "autor": "Vários",
+    "editora": "Editora Z",
+    "categoria": "VADE_MECUM",
+    "quantidade": 3,
+    "quantidadeVezesAlugado": 0
+  },
+  {
+    "id": 4,
+    "titulo": "Direito Civil",
+    "autor": "Carlos Roberto Gonçalves",
+    "editora": "Saraiva",
+    "categoria": "DOUTRINA",
+    "quantidade": 5,
+    "quantidadeVezesAlugado": 0
+  },
+  {
+    "id": 5,
+    "titulo": "Dicionário Jurídico",
+    "autor": "Maria Helena Diniz",
+    "editora": "Saraiva",
+    "categoria": "DICIONARIO_JURIDICO",
+    "quantidade": 2,
+    "quantidadeVezesAlugado": 0
+  },
+  {
+    "id": 6,
+    "titulo": "Manual de Direito Penal",
+    "autor": "Cezar Roberto Bitencourt",
+    "editora": "Saraiva",
+    "categoria": "MANUAIS",
+    "quantidade": 4,
+    "quantidadeVezesAlugado": 1
+  },
+  {
+    "id": 7,
+    "titulo": "Comentários à Constituição",
+    "autor": "Alexandre de Moraes",
+    "editora": "Atlas",
+    "categoria": "COMENTARIOS",
+    "quantidade": 3,
+    "quantidadeVezesAlugado": 0
+  },
+  {
+    "id": 8,
+    "titulo": "Curso de Direito Penal",
+    "autor": "Fernando Capez",
+    "editora": "Saraiva",
+    "categoria": "CURSOS",
+    "quantidade": 5,
+    "quantidadeVezesAlugado": 2
+  },
+  {
+    "id": 9,
+    "titulo": "Legislação Trabalhista",
+    "autor": "Vários",
+    "editora": "Atlas",
+    "categoria": "LEGISLACAO",
+    "quantidade": 3,
+    "quantidadeVezesAlugado": 0
+  },
+  {
+    "id": 10,
+    "titulo": "Revista de Direito Constitucional",
+    "autor": "Diversos",
+    "editora": "Revista Jurídica",
+    "categoria": "REVISTA_JURIDICA",
+    "quantidade": 2,
+    "quantidadeVezesAlugado": 0
+  },
+  {
+    "id": 11,
+    "titulo": "Prática Processual Civil",
+    "autor": "Humberto Theodoro Jr.",
+    "editora": "Forense",
+    "categoria": "PRATICA_JURIDICA",
+    "quantidade": 4,
+    "quantidadeVezesAlugado": 1
+  },
+  {
+    "id": 12,
+    "titulo": "Curso de Direito Administrativo",
+    "autor": "Maria Sylvia Di Pietro",
+    "editora": "Atlas",
+    "categoria": "CURSOS",
+    "quantidade": 3,
+    "quantidadeVezesAlugado": 0
+  },
+  {
+    "id": 13,
+    "titulo": "Manual de Direito Tributário",
+    "autor": "Eduardo Sabbag",
+    "editora": "Saraiva",
+    "categoria": "MANUAIS",
+    "quantidade": 3,
+    "quantidadeVezesAlugado": 0
+  },
+  {
+    "id": 14,
+    "titulo": "Jurisprudência do STF",
+    "autor": "Supremo Tribunal Federal",
+    "editora": "STF",
+    "categoria": "JURISPRUDENCIA",
+    "quantidade": 2,
+    "quantidadeVezesAlugado": 0
+  },
+  {
+    "id": 15,
+    "titulo": "Curso de Processo Penal",
+    "autor": "Guilherme de Souza Nucci",
+    "editora": "Forense",
+    "categoria": "CURSOS",
+    "quantidade": 4,
+    "quantidadeVezesAlugado": 1
+  },
+  {
+    "id": 16,
+    "titulo": "Manual de Direito Constitucional",
+    "autor": "Gilmar Mendes",
+    "editora": "Saraiva",
+    "categoria": "MANUAIS",
+    "quantidade": 3,
+    "quantidadeVezesAlugado": 0
+  },
+  {
+    "id": 17,
+    "titulo": "Comentários ao Código Civil",
+    "autor": "Pablo Stolze",
+    "editora": "Juspodivm",
+    "categoria": "COMENTARIOS",
+    "quantidade": 2,
+    "quantidadeVezesAlugado": 0
+  },
+  {
+    "id": 18,
+    "titulo": "Prática Trabalhista",
+    "autor": "Sérgio Pinto Martins",
+    "editora": "Atlas",
+    "categoria": "PRATICA_JURIDICA",
+    "quantidade": 4,
+    "quantidadeVezesAlugado": 0
+  },
+  {
+    "id": 19,
+    "titulo": "Vade Mecum Compacto",
+    "autor": "Saraiva",
+    "editora": "Saraiva",
+    "categoria": "VADE_MECUM",
+    "quantidade": 5,
+    "quantidadeVezesAlugado": 1
+  },
+  {
+    "id": 20,
+    "titulo": "Dicionário Jurídico Moderno",
+    "autor": "De Plácido e Silva",
+    "editora": "Forense",
+    "categoria": "DICIONARIO_JURIDICO",
+    "quantidade": 2,
+    "quantidadeVezesAlugado": 0
+  },
+  {
+    "id": 21,
+    "titulo": "Revista de Direito Penal",
+    "autor": "Diversos",
+    "editora": "Revista Jurídica",
+    "categoria": "REVISTA_JURIDICA",
+    "quantidade": 2,
+    "quantidadeVezesAlugado": 0
+  },
+  {
+    "id": 22,
+    "titulo": "Doutrina de Direito Civil",
+    "autor": "Orlando Gomes",
+    "editora": "Forense",
+    "categoria": "DOUTRINA",
+    "quantidade": 3,
+    "quantidadeVezesAlugado": 0
+  },
+  {
+    "id": 23,
+    "titulo": "Curso de Direito Empresarial",
+    "autor": "Fábio Ulhoa Coelho",
+    "editora": "Saraiva",
+    "categoria": "CURSOS",
+    "quantidade": 4,
+    "quantidadeVezesAlugado": 1
+  },
+  {
+    "id": 24,
+    "titulo": "Manual de Processo Civil",
+    "autor": "Fredie Didier",
+    "editora": "Juspodivm",
+    "categoria": "MANUAIS",
+    "quantidade": 3,
+    "quantidadeVezesAlugado": 0
+  },
+  {
+    "id": 25,
+    "titulo": "Jurisprudência Trabalhista",
+    "autor": "TST",
+    "editora": "TST",
+    "categoria": "JURISPRUDENCIA",
+    "quantidade": 2,
+    "quantidadeVezesAlugado": 0
+  },
+  {
+    "id": 26,
+    "titulo": "Prática de Direito Penal",
+    "autor": "Rogério Greco",
+    "editora": "Impetus",
+    "categoria": "PRATICA_JURIDICA",
+    "quantidade": 3,
+    "quantidadeVezesAlugado": 0
+  },
+  {
+    "id": 27,
+    "titulo": "Comentários ao Código Penal",
+    "autor": "Damásio de Jesus",
+    "editora": "Saraiva",
+    "categoria": "COMENTARIOS",
+    "quantidade": 2,
+    "quantidadeVezesAlugado": 0
+  },
+  {
+    "id": 28,
+    "titulo": "Curso de Direito Tributário",
+    "autor": "Ricardo Alexandre",
+    "editora": "Juspodivm",
+    "categoria": "CURSOS",
+    "quantidade": 3,
+    "quantidadeVezesAlugado": 0
+  },
+  {
+    "id": 29,
+    "titulo": "Legislação Ambiental",
+    "autor": "Vários",
+    "editora": "Atlas",
+    "categoria": "LEGISLACAO",
+    "quantidade": 2,
+    "quantidadeVezesAlugado": 0
+  },
+  {
+    "id": 30,
+    "titulo": "Revista de Direito Administrativo",
+    "autor": "Diversos",
+    "editora": "Revista Jurídica",
+    "categoria": "REVISTA_JURIDICA",
+    "quantidade": 2,
+    "quantidadeVezesAlugado": 0
+  },
+  {
+    "id": 31,
+    "titulo": "Manual de Direito Empresarial",
+    "autor": "Fábio Ulhoa Coelho",
+    "editora": "Saraiva",
+    "categoria": "MANUAIS",
+    "quantidade": 3,
+    "quantidadeVezesAlugado": 0
+  },
+  {
+    "id": 32,
+    "titulo": "Doutrina de Direito Penal",
+    "autor": "Rogério Greco",
+    "editora": "Impetus",
+    "categoria": "DOUTRINA",
+    "quantidade": 4,
+    "quantidadeVezesAlugado": 1
+  },
+  {
+    "id": 33,
+    "titulo": "Vade Mecum Acadêmico",
+    "autor": "Saraiva",
+    "editora": "Saraiva",
+    "categoria": "VADE_MECUM",
+    "quantidade": 5,
+    "quantidadeVezesAlugado": 0
+  },
+  {
+    "id": 34,
+    "titulo": "Direito Civil",
+    "autor": "Autor A",
+    "editora": "Editora X",
+    "categoria": "DOUTRINA",
+    "quantidade": 5,
+    "quantidadeVezesAlugado": 0
+  },
+  {
+    "id": 35,
+    "titulo": "Direito Penal",
+    "autor": "Autor B",
+    "editora": "Editora Y",
+    "categoria": "DICIONARIO_JURIDICO",
+    "quantidade": 1,
+    "quantidadeVezesAlugado": 0
+  },
+  {
+    "id": 36,
+    "titulo": "Constituição Federal",
+    "autor": "Vários",
+    "editora": "Editora Z",
+    "categoria": "VADE_MECUM",
+    "quantidade": 3,
+    "quantidadeVezesAlugado": 0
+  },
+  {
+    "id": 37,
+    "titulo": "Direito Civil",
+    "autor": "Autor A",
+    "editora": "Editora X",
+    "categoria": "DOUTRINA",
+    "quantidade": 5,
+    "quantidadeVezesAlugado": 0
+  },
+  {
+    "id": 38,
+    "titulo": "Direito Penal",
+    "autor": "Autor B",
+    "editora": "Editora Y",
+    "categoria": "DICIONARIO_JURIDICO",
+    "quantidade": 1,
+    "quantidadeVezesAlugado": 0
+  },
+  {
+    "id": 39,
+    "titulo": "Constituição Federal",
+    "autor": "Vários",
+    "editora": "Editora Z",
+    "categoria": "VADE_MECUM",
+    "quantidade": 3,
+    "quantidadeVezesAlugado": 0
+  },
+  {
+    "id": 40,
+    "titulo": "Direito Civil",
+    "autor": "Autor A",
+    "editora": "Editora X",
+    "categoria": "DOUTRINA",
+    "quantidade": 5,
+    "quantidadeVezesAlugado": 0
+  },
+  {
+    "id": 41,
+    "titulo": "Direito Penal",
+    "autor": "Autor B",
+    "editora": "Editora Y",
+    "categoria": "DICIONARIO_JURIDICO",
+    "quantidade": 1,
+    "quantidadeVezesAlugado": 0
+  },
+  {
+    "id": 42,
+    "titulo": "Constituição Federal",
+    "autor": "Vários",
+    "editora": "Editora Z",
+    "categoria": "VADE_MECUM",
+    "quantidade": 3,
+    "quantidadeVezesAlugado": 0
+  },
+  {
+    "id": 43,
+    "titulo": "Direito Civil",
+    "autor": "Autor A",
+    "editora": "Editora X",
+    "categoria": "DOUTRINA",
+    "quantidade": 5,
+    "quantidadeVezesAlugado": 0
+  },
+  {
+    "id": 44,
+    "titulo": "Direito Penal",
+    "autor": "Autor B",
+    "editora": "Editora Y",
+    "categoria": "DICIONARIO_JURIDICO",
+    "quantidade": 1,
+    "quantidadeVezesAlugado": 0
+  },
+  {
+    "id": 45,
+    "titulo": "Constituição Federal",
+    "autor": "Vários",
+    "editora": "Editora Z",
+    "categoria": "VADE_MECUM",
+    "quantidade": 3,
+    "quantidadeVezesAlugado": 0
+  },
+  {
+    "id": 46,
+    "titulo": "Direito Civil",
+    "autor": "Autor A",
+    "editora": "Editora X",
+    "categoria": "DOUTRINA",
+    "quantidade": 5,
+    "quantidadeVezesAlugado": 0
+  },
+  {
+    "id": 47,
+    "titulo": "Direito Penal",
+    "autor": "Autor B",
+    "editora": "Editora Y",
+    "categoria": "DICIONARIO_JURIDICO",
+    "quantidade": 1,
+    "quantidadeVezesAlugado": 0
+  },
+  {
+    "id": 48,
+    "titulo": "Constituição Federal",
+    "autor": "Vários",
+    "editora": "Editora Z",
+    "categoria": "VADE_MECUM",
+    "quantidade": 3,
+    "quantidadeVezesAlugado": 0
+  },
+  {
+    "id": 49,
+    "titulo": "Direito Civil",
+    "autor": "Autor A",
+    "editora": "Editora X",
+    "categoria": "DOUTRINA",
+    "quantidade": 5,
+    "quantidadeVezesAlugado": 0
+  },
+  {
+    "id": 50,
+    "titulo": "Direito Penal",
+    "autor": "Autor B",
+    "editora": "Editora Y",
+    "categoria": "DICIONARIO_JURIDICO",
+    "quantidade": 1,
+    "quantidadeVezesAlugado": 0
+  },
+  {
+    "id": 51,
+    "titulo": "Constituição Federal",
+    "autor": "Vários",
+    "editora": "Editora Z",
+    "categoria": "VADE_MECUM",
+    "quantidade": 3,
+    "quantidadeVezesAlugado": 0
+  },
+  {
+    "id": 52,
+    "titulo": "Direito Civil",
+    "autor": "Autor A",
+    "editora": "Editora X",
+    "categoria": "DOUTRINA",
+    "quantidade": 5,
+    "quantidadeVezesAlugado": 0
+  },
+  {
+    "id": 53,
+    "titulo": "Direito Penal",
+    "autor": "Autor B",
+    "editora": "Editora Y",
+    "categoria": "DICIONARIO_JURIDICO",
+    "quantidade": 1,
+    "quantidadeVezesAlugado": 0
+  },
+  {
+    "id": 54,
+    "titulo": "Constituição Federal",
+    "autor": "Vários",
+    "editora": "Editora Z",
+    "categoria": "VADE_MECUM",
+    "quantidade": 3,
+    "quantidadeVezesAlugado": 0
+  },
+  {
+    "id": 55,
+    "titulo": "Direito Civil",
+    "autor": "Autor A",
+    "editora": "Editora X",
+    "categoria": "DOUTRINA",
+    "quantidade": 5,
+    "quantidadeVezesAlugado": 0
+  },
+  {
+    "id": 56,
+    "titulo": "Direito Penal",
+    "autor": "Autor B",
+    "editora": "Editora Y",
+    "categoria": "DICIONARIO_JURIDICO",
+    "quantidade": 1,
+    "quantidadeVezesAlugado": 0
+  },
+  {
+    "id": 57,
+    "titulo": "Constituição Federal",
+    "autor": "Vários",
+    "editora": "Editora Z",
+    "categoria": "VADE_MECUM",
+    "quantidade": 3,
+    "quantidadeVezesAlugado": 0
+  }
+]

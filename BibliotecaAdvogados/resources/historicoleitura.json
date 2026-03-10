@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "nomeUsuario": "Gilvan",
+    "titulo": "Novo Direito Civil",
+    "autor": "Novo Autor A",
+    "dataEmprestimo": "2026-03-10",
+    "dataDevolucao": "2026-03-31",
+    "tipoLeitura": "EMPRESTIMO",
+    "statusDevolucao": "EM_DIA"
+  },
+  {
+    "id": 2,
+    "nomeUsuario": "Gilvan",
+    "titulo": "Novo Direito Civil",
+    "autor": "Novo Autor A",
+    "dataEmprestimo": "2026-03-10",
+    "dataDevolucao": "2026-03-31",
+    "tipoLeitura": "EMPRESTIMO",
+    "statusDevolucao": "EM_POSSE"
+  },
+  {
+    "id": 3,
+    "nomeUsuario": "Gilvan",
+    "titulo": "Novo Direito Civil",
+    "autor": "Novo Autor A",
+    "dataEmprestimo": "2026-03-10",
+    "dataDevolucao": "2026-03-31",
+    "tipoLeitura": "EMPRESTIMO",
+    "statusDevolucao": "EM_POSSE"
+  },
+  {
+    "id": 4,
+    "nomeUsuario": "Gilvan",
+    "titulo": "Novo Direito Civil",
+    "autor": "Novo Autor A",
+    "dataEmprestimo": "2026-03-10",
+    "dataDevolucao": "2026-03-31",
+    "tipoLeitura": "EMPRESTIMO",
+    "statusDevolucao": "EM_POSSE"
+  },
+  {
+    "id": 5,
+    "nomeUsuario": "Gilvan",
+    "titulo": "Novo Direito Civil",
+    "autor": "Novo Autor A",
+    "dataEmprestimo": "2026-03-10",
+    "dataDevolucao": "2026-03-31",
+    "tipoLeitura": "EMPRESTIMO",
+    "statusDevolucao": "EM_POSSE"
+  },
+  {
+    "id": 6,
+    "nomeUsuario": "Gilvan",
+    "titulo": "Novo Direito Civil",
+    "autor": "Novo Autor A",
+    "dataEmprestimo": "2026-03-10",
+    "dataDevolucao": "2026-03-31",
+    "tipoLeitura": "EMPRESTIMO",
+    "statusDevolucao": "EM_POSSE"
+  },
+  {
+    "id": 7,
+    "nomeUsuario": "Gilvan",
+    "titulo": "Novo Direito Civil",
+    "autor": "Novo Autor A",
+    "dataEmprestimo": "2026-03-10",
+    "dataDevolucao": "2026-03-31",
+    "tipoLeitura": "EMPRESTIMO",
+    "statusDevolucao": "EM_POSSE"
+  },
+  {
+    "id": 8,
+    "nomeUsuario": "Gilvan",
+    "titulo": "Novo Direito Civil",
+    "autor": "Novo Autor A",
+    "dataEmprestimo": "2026-03-10",
+    "dataDevolucao": "2026-03-31",
+    "tipoLeitura": "EMPRESTIMO",
+    "statusDevolucao": "EM_POSSE"
+  },
+  {
+    "id": 9,
+    "nomeUsuario": "Gilvan",
+    "titulo": "Novo Direito Civil",
+    "autor": "Novo Autor A",
+    "dataEmprestimo": "2026-03-10",
+    "dataDevolucao": "2026-03-31",
+    "tipoLeitura": "EMPRESTIMO",
+    "statusDevolucao": "EM_POSSE"
+  },
+  {
+    "id": 10,
+    "nomeUsuario": "Gilvan",
+    "titulo": "Novo Direito Civil",
+    "autor": "Novo Autor A",
+    "dataEmprestimo": "2026-03-10",
+    "dataDevolucao": "2026-03-31",
+    "tipoLeitura": "EMPRESTIMO",
+    "statusDevolucao": "EM_POSSE"
+  }
+]
