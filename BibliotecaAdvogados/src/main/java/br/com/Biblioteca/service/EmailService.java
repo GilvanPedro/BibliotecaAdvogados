@@ -9,7 +9,7 @@ import java.util.Properties;
 public class EmailService {
 
     private final String emailSistema = "gilvanpedro2006@gmail.com";
-    private final String senha = "drgyuqjiezsmtkfq";
+    private final String senha = "sua senha de app";
 
     public void enviarEmail(String destino, String assunto, String mensagemTexto){
 
@@ -49,3 +49,4 @@ public class EmailService {
         }
     }
 }
+
